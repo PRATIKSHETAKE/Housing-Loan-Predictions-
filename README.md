@@ -79,8 +79,9 @@ Given the class imbalance identified in the data analysis phase, standard accura
 * **Metric Selection:** Evaluation prioritized Precision, Recall, F1-score, and ROC-AUC.
 * **Handling Imbalance:** Since the dataset is heavily skewed (approx 11:1 ratio), models initially favored the majority class. Implementing resampling techniques and adjusting class weights were necessary.
 * **Trade-offs:** A clear trade-off between precision and recall was observed; recall was prioritized in scenarios where missing a positive instance (False Negative) was costly.
-  <img width="499" height="545" alt="image" src="https://github.com/user-attachments/assets/c8f37106-cda1-4881-9a50-9ad84c315584" />
 <img width="506" height="468" alt="image" src="https://github.com/user-attachments/assets/4ad2613a-96f8-4fa7-ba16-ecaae7f3e565" />
+<img width="499" height="545" alt="image" src="https://github.com/user-attachments/assets/4c4db215-0de8-48cb-b587-0b934d5c78bb" />
+
 
 
 #### 💡 Final Conclusion
