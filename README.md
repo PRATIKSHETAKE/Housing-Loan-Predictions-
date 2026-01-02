@@ -45,6 +45,8 @@ Visual analysis of the applicant base revealed clear distinctions in default pro
 * **Portfolio:** The most common asset profile is owning **Realty Only** (~140k applicants).
 * **Housing Profile:** A radar chart analysis of housing features (Living Area, Elevators, Entrances) indicates that Repayers consistently score higher on housing quality metrics compared to Defaulters, though the shape of the profile remains similar.
   <img width="1335" height="1071" alt="image" src="https://github.com/user-attachments/assets/2b1be1e7-f161-40da-819f-8c7121e55750" />
+  <img width="768" height="637" alt="image" src="https://github.com/user-attachments/assets/e86681c6-598d-499e-ace3-f12291eb7bd7" />
+
 
 
 
